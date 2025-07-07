@@ -27,7 +27,7 @@ I'm always exploring new technologies, especially in the field of **cybersecurit
 
 ## 🚀 Projects
 
-I'm actively working on new and exciting projects — feel free to explore them in my [repositories](https://github.com/your-github-username). Contributions, feedback, and suggestions are always welcome!
+I'm actively working on new and exciting projects — feel free to explore them in my [repositories](https://github.com/ErAbhi523). Contributions, feedback, and suggestions are always welcome!
 
 ---
 
