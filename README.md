@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abhishek Verma
 
-🎓 I'm a passionate Computer Science and Engineering student with a strong interest in **Web Development** and **Cybersecurity**. Currently, I’m working as an **Assistant Engineer at EduBuddy**, where I get to solve real-world problems and contribute to meaningful software solutions.
+🎓 I'm a passionate Computer Science Engineer with a strong interest in **Devlopment**, **Technology** and **Entrepreneourship** . Currently, I’m working as an **Assistant Engineer at EduBuddy**, where I get to solve real-world problems and contribute to meaningful software solutions.
 
 ---
 
@@ -11,7 +11,7 @@ I enjoy:
 - Writing clean, maintainable code
 - Building secure and efficient web applications
 
-I'm always exploring new technologies, especially in the field of **cybersecurity**, to create safe and reliable digital environments.
+I'm always exploring new technologies, to create safe and reliable digital environments.
 
 ---
 
@@ -23,11 +23,13 @@ I'm always exploring new technologies, especially in the field of **cybersecurit
 **Tools & Technologies:**  
 `Git` • `GitHub` • `VS Code` • `Linux`
 
+**Currently Learning and Working:**
+`Flutter` • `asp.net` • `Blazor` 
 ---
 
 ## 🚀 Projects
 
-I'm actively working on new and exciting projects — feel free to explore them in my [repositories](https://github.com/ErAbhi523). Contributions, feedback, and suggestions are always welcome!
+I'm actively working on new and exciting projects — feel free to explore them in my [repositories]([https://github.com/ErAbhi523](https://github.com/ErAbhi523?tab=repositories)). Contributions, feedback, and suggestions are always welcome!
 
 ---
 
